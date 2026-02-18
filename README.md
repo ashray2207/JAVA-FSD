@@ -1,4 +1,2 @@
 # JAVA-FSD
-Ashray Bagde
-AIDS-A-37
-24070238
+Ashray Bagde\nAIDS-A-37\n24070238
